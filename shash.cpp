@@ -15,7 +15,7 @@ int findMax(int arr[],int size){
     }
     return max;
 }
-cout<<"heloo";
+cout<<"heloo My name is shashwat"<<cout;
 
 int findMin(int arr[],int size){
     int min = INT_MAX;
